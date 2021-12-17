@@ -15,10 +15,6 @@
   position: relative;
   align-items: center;
   flex-direction: column;
-  background-size: auto;
-  background-image: url("/playground_assets/isaac-quesada-6xxxvb72qb0-unsplash%5B1%5D-1500h.jpg");
-  background-repeat: repeat;
-  background-position: center;
 }
 .Bg {
   flex: 0 0 auto;
